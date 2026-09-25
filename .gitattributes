@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Game files are kept exactly as exported by the GUI (UTF-8 BOM, CRLF)
+*.pgn -text
