@@ -17,7 +17,7 @@ Played and exported by **Maurizio Platino**, the project's tester.
 | 2026-09-14 | Caissa 1.26 BMI2 | 7.0, 2026-09-10 | 300 | +126 =65 −109 | 52.8% | +20 | [folder](maurizio-platino/2026-09-14_caissa-1.26) (result only) |
 | 2026-09-22 | Caissa 2.0 BMI2 | 7.0, 2026-09-10 | 300 | +109 =59 −132 | 46.2% | −27 ± 15 | [folder](maurizio-platino/2026-09-22_caissa-2.0) |
 
-**Conditions (all matches)**
+**Conditions (all 7.0 matches)**
 
 - Hardware: Intel Core i7-8700 @ 3.20 GHz
 - GUI: Fritz 18
@@ -36,6 +36,19 @@ move the score.
 
 `7.0 dev, 2026-08-14` is a development build from about a month before the release; `7.0,
 2026-09-10` carries the release date.
+
+## Maurizio Platino — Triumviratus 8.0 (development) against Caissa 2.0
+
+The same opponent as the last 7.0 match, with 8.0 development builds.
+
+| Date | Triumviratus build | Threads · ponder | Games | +W =D −L | Score | Elo (Triumviratus) | Files |
+|---|---|---|---:|---|---:|---:|---|
+| 2026-09-30 | 8.0 dev, 2026-09-30 | 4 · on | 300 | +108 =61 −131 | 46.2% | −27 ± 15 | [folder](maurizio-platino/2026-09-30_caissa-2.0) |
+| 2026-10-01 | 8.0 dev, 2026-10-01 | 4 · on | 300 | +113 =62 −125 | 48.0% | −14 ± 15 | [folder](maurizio-platino/2026-10-01_caissa-2.0) |
+| 2026-10-03 | 8.0 dev, 2026-10-01 | 1 · off | 300 | +125 =59 −116 | 51.5% | +10 ± 14 | [folder](maurizio-platino/2026-10-03_caissa-2.0_1-thread) |
+
+Opponent Caissa 2.0 BMI2. Same hardware, GUI, hash, time control and openings as above; only the
+threads and ponder change, as listed. The game files only, without the crosstable images.
 
 ## Layout
 
