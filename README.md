@@ -50,6 +50,16 @@ The same opponent as the last 7.0 match, with 8.0 development builds.
 Opponent Caissa 2.0 BMI2. Same hardware, GUI, hash, time control and openings as above; only the
 threads and ponder change, as listed. The game files only, without the crosstable images.
 
+## Maurizio Platino — Triumviratus 8.0 prerelease against Stormphrax 8.0.0
+
+| Date | Triumviratus build | Threads · ponder | Games | +W =D −L | Score | Elo (Triumviratus) | Files |
+|---|---|---|---:|---|---:|---:|---|
+| 2026-10-05/06 | 8.0 prerelease, 2026-10-04 | 1 · off | 300 | +149 =81 −70 | 63.2% | +94 ± 16 | [folder](maurizio-platino/2026-10-05_stormphrax-8.0.0) |
+
+Opponent Stormphrax 8.0.0. Same hardware, GUI, hash (1024 MB), time control (1 min + 1 s) and openings
+(`UHO_2024_8mvs_big_+110_+129.pgn`, 150 openings, both colours) as above; 1 thread per engine, ponder off.
+The build is the 8.0 prerelease of 4 October 2026 (restructured search). Game file and crosstable.
+
 ## Layout
 
 ```
