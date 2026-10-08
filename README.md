@@ -60,6 +60,16 @@ Opponent Stormphrax 8.0.0. Same hardware, GUI, hash (1024 MB), time control (1 m
 (`UHO_2024_8mvs_big_+110_+129.pgn`, 150 openings, both colours) as above; 1 thread per engine, ponder off.
 The build is the 8.0 prerelease of 4 October 2026 (restructured search). Game file and crosstable.
 
+## Maurizio Platino — Triumviratus 8.0 prerelease against Reckless 0.10.0
+
+| Date | Triumviratus build | Threads · ponder | Games | +W =D −L | Score | Elo (Triumviratus) | Files |
+|---|---|---|---:|---|---:|---:|---|
+| 2026-10-07 | 8.0 prerelease, 2026-10-04 | 1 · off | 300 | +132 =58 −110 | 53.7% | +25.5 ± 14.6 | [folder](maurizio-platino/2026-10-07_reckless-0.10.0) |
+
+Opponent Reckless 0.10.0-dev-7300f044, both engines with default settings. Same hardware, GUI, hash (1024 MB),
+time control (1 min + 1 s) and openings (`UHO_2024_8mvs_big_+110_+129.pgn`, 150 openings, both colours) as above;
+1 thread per engine, ponder off. The ± is the 95% interval on the 150 opening pairs (pentanomial). Game file only.
+
 ## Layout
 
 ```
