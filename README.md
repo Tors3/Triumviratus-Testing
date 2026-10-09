@@ -70,6 +70,18 @@ Opponent Reckless 0.10.0-dev-7300f044, both engines with default settings. Same 
 time control (1 min + 1 s) and openings (`UHO_2024_8mvs_big_+110_+129.pgn`, 150 openings, both colours) as above;
 1 thread per engine, ponder off. The ± is the 95% interval on the 150 opening pairs (pentanomial). Game file only.
 
+## Maurizio Platino — Triumviratus 8.0 prerelease against Stockfish 19
+
+| Date | Triumviratus build | Threads · ponder | Games | +W =D −L | Score | Elo (Triumviratus) | Files |
+|---|---|---|---:|---|---:|---:|---|
+| 2026-10-09 | 8.0 prerelease, 2026-10-08 | 3 · off | 300 | +137 =20 −143 | 49.0% | −6.9 ± 9.6 | [folder](maurizio-platino/2026-10-09_stockfish-19) |
+
+Opponent Stockfish 19, both engines with default settings. Same hardware, GUI, hash (1024 MB), time control
+(1 min + 1 s) and openings (`UHO_2024_8mvs_big_+110_+129.pgn`, 150 openings, both colours) as above; 3 threads per
+engine, ponder off. The build is the 8.0 prerelease of 8 October 2026. The ± is the 95% interval on the 150 opening
+pairs (pentanomial [0, 12, 132, 6, 0]): 132 of the 150 openings ended one win each, and white won 93% of all games.
+Game file and crosstable.
+
 ## Layout
 
 ```
