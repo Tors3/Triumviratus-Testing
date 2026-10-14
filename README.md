@@ -82,6 +82,21 @@ engine, ponder off. The build is the 8.0 prerelease of 8 October 2026. The ± is
 pairs (pentanomial [0, 12, 132, 6, 0]): 132 of the 150 openings ended one win each, and white won 93% of all games.
 Game file and crosstable.
 
+## Maurizio Platino — IQ4 test suite
+
+**IQ4**: 183 hard positions. 1 second per position, 1 thread, 64 MB hash, same machine as above.
+
+| Engine | Solved |
+|---|---:|
+| Leptir TI MPV | 165 / 183 |
+| **Triumviratus 8.0 (pre-release of 11 October 2026)** | **155 / 183** |
+| Cinder 0.6.1 | 149 / 183 |
+| Alexandria 9.1.0 | 147 / 183 |
+| Corchess 5 (2026-10-01) | 145 / 183 |
+| Stockfish 19 | 142 / 183 |
+
+Results as reported by Maurizio Platino (a test suite has no game files).
+
 ## Layout
 
 ```
